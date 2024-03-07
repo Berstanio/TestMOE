@@ -9,7 +9,7 @@ buildscript {
     maven { url 'https://s01.oss.sonatype.org/content/repositories/snapshots/' }
   }
   dependencies {
-    classpath "org.multi-os-engine:moe-gradle:1.10.2-SNAPSHOT"
+    classpath "org.multi-os-engine:moe-gradle:1.10.0-SNAPSHOT"
 
   }
 }
